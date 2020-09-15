@@ -21,8 +21,8 @@
     {
       "name": "Edge Dark",
       "palette": "#363944:#ec7279:#a0c980:#deb974:#6cb6eb:#d38aea:#5dbbc1:#c5cdd9:#363944:#ec7279:#a0c980:#deb974:#6cb6eb:#d38aea:#5dbbc1:#c5cdd9",
-      "background_color": "#c5cdd9",
-      "cursor_color": "#2c2e34",
+      "background_color": "#2c2e34",
+      "cursor_color": "#c5cdd9",
       "foreground_color": "#c5cdd9",
       "background_image": "None",
       "type": "dark"
