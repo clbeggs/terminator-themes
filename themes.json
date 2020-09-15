@@ -10,6 +10,42 @@
       "type": "light"
     },
     {
+      "name": "Edge Light",
+      "palette": "#4b505b:#d05858:#608e32:#be7e05:#5079be:#b05ccc:#3a8b84:#fafafa:#4b505b:#d05858:#608e32:#be7e05:#5079be:#b05ccc:#3a8b84:#fafafa",
+      "background_color": "#fafafa",
+      "cursor_color": "#4b505b",
+      "foreground_color": "#4b505b",
+      "background_image": "None",
+      "type": "light"
+    },
+    {
+      "name": "Edge Dark",
+      "palette": "#363944:#ec7279:#a0c980:#deb974:#6cb6eb:#d38aea:#5dbbc1:#c5cdd9:#363944:#ec7279:#a0c980:#deb974:#6cb6eb:#d38aea:#5dbbc1:#c5cdd9",
+      "background_color": "#c5cdd9",
+      "cursor_color": "#2c2e34",
+      "foreground_color": "#c5cdd9",
+      "background_image": "None",
+      "type": "dark"
+    },
+    {
+      "name": "Edge Aura",
+      "palette": "#363a49:#ec7279:#a0c980:#deb974:#6cb6eb:#d38aea:#5dbbc1:#c5cdd9:#363a49:#ec7279:#a0c980:#deb974:#6cb6eb:#d38aea:#5dbbc1:#c5cdd9",
+      "background_color": "#2b2d37",
+      "cursor_color": "#c5cdd9",
+      "foreground_color": "#c5cdd9",
+      "background_image": "None",
+      "type": "dark"
+    },
+    {
+      "name": "Edge Neon",
+      "palette": "#363a4e:#ec7279:#a0c980:#deb974:#6cb6eb:#d38aea:#5dbbc1:#c5cdd9:#363a4e:#ec7279:#a0c980:#deb974:#6cb6eb:#d38aea:#5dbbc1:#c5cdd9",
+      "background_color": "#2b2d3a",
+      "cursor_color": "#c5cdd9",
+      "foreground_color": "#c5cdd9",
+      "background_image": "None",
+      "type": "dark"
+    },
+    {
       "name": "3024 Night",
       "palette": "#090300:#db2d20:#01a252:#fded02:#01a0e4:#a16a94:#b5e4f4:#a5a2a2:#5c5855:#e8bbd0:#3a3432:#4a4543:#807d7c:#d6d5d4:#cdab53:#f7f7f7",
       "background_color": "#090300",
