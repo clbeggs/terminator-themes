@@ -46,6 +46,24 @@
       "type": "dark"
     },
     {
+      "name": "Forest Night",
+      "palette": "#868d80:#e68183:#a7c080:#d9bb80:#89beba:#d3a0bc:#87c095:#d8caac:#868d80:#e68183:#a7c080:#d9bb80:#89beba:#d3a0bc:#87c095:#d8caac",
+      "background_color": "#323d43",
+      "cursor_color": "#d8caac",
+      "foreground_color": "#d8caac",
+      "background_image": "None",
+      "type": "dark"
+    },
+    {
+      "name": "Gruvbox Material",
+      "palette": "#3c3836:#b85651:#8f9a52:#c18f41:#68948a:#ab6c7d:#72966c:#a89984:#5a524c:#b85651:#a9b665:#d8a657:#7daea3:#d3869b:#89b482:#ddc7a1",
+      "background_color": "#32302f",
+      "cursor_color": "#d4be98",
+      "foreground_color": "#d4be98",
+      "background_image": "None",
+      "type": "dark"
+    },
+    {
       "name": "3024 Night",
       "palette": "#090300:#db2d20:#01a252:#fded02:#01a0e4:#a16a94:#b5e4f4:#a5a2a2:#5c5855:#e8bbd0:#3a3432:#4a4543:#807d7c:#d6d5d4:#cdab53:#f7f7f7",
       "background_color": "#090300",
